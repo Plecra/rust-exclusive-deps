@@ -1,0 +1,1 @@
+pub use dep_with_features::VALUE;

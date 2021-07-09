@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "dep-with-features",
+    "impl-a",
+    "impl-b",
+    "application"
+]
